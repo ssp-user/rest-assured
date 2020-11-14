@@ -1,0 +1,6 @@
+target/
+*.class
+/target/*
+target/*
+test-output/
+.classpath
